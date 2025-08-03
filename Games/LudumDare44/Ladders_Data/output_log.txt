@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.5p4 (10861494ddb7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 Ti (ID=0x2203)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   31.0.15.3623
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\Ladders_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\Ladders_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\Ladders_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\Ladders_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\Ladders_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\Ladders_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\Ladders_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\Ladders_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.339 seconds
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\Ladders_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\Ladders_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 5120x1440 120Hz; virtual: 7040x1440 at -1920,0
+<RI> Initialized touch support.
+UnloadTime: 8.341200 ms
+55.48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 16 worker threads for Enlighten.
+  Thread -> id: 55a0 -> priority: 1 
+  Thread -> id: 5620 -> priority: 1 
+  Thread -> id: 4fc0 -> priority: 1 
+  Thread -> id: 3e08 -> priority: 1 
+  Thread -> id: 3064 -> priority: 1 
+  Thread -> id: 254c -> priority: 1 
+  Thread -> id: 2ab8 -> priority: 1 
+  Thread -> id: 38bc -> priority: 1 
+  Thread -> id: 562c -> priority: 1 
+  Thread -> id: 4820 -> priority: 1 
+  Thread -> id: f5c -> priority: 1 
+  Thread -> id: 720 -> priority: 1 
+  Thread -> id: 56b8 -> priority: 1 
+  Thread -> id: bbc -> priority: 1 
+  Thread -> id: 1ff0 -> priority: 1 
+  Thread -> id: 427c -> priority: 1 

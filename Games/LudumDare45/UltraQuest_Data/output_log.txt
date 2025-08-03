@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.5p4 (10861494ddb7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 Ti (ID=0x2203)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   32.0.15.6094
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\UltraQuest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\UltraQuest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\UltraQuest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\UltraQuest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\UltraQuest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\UltraQuest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\UltraQuest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\UltraQuest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.353 seconds
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\UltraQuest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\UltraQuest_Data\Managed\System.dll (this message is harmless)
+desktop: 5120x1440 120Hz; virtual: 7040x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.443600 ms
+REMOVE THISSSSSSSSSSSSSSSSSSSSSSSSSSS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 16 worker threads for Enlighten.
+  Thread -> id: 48c0 -> priority: 1 
+  Thread -> id: 4e04 -> priority: 1 
+  Thread -> id: 2494 -> priority: 1 
+  Thread -> id: 12b8 -> priority: 1 
+  Thread -> id: 25e0 -> priority: 1 
+  Thread -> id: f40 -> priority: 1 
+  Thread -> id: 4e40 -> priority: 1 
+  Thread -> id: 166c -> priority: 1 
+  Thread -> id: 38e8 -> priority: 1 
+  Thread -> id: 54ec -> priority: 1 
+  Thread -> id: 25f4 -> priority: 1 
+  Thread -> id: 5414 -> priority: 1 
+  Thread -> id: 30e0 -> priority: 1 
+  Thread -> id: 46cc -> priority: 1 
+  Thread -> id: 45c8 -> priority: 1 
+  Thread -> id: 476c -> priority: 1 

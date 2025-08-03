@@ -1,0 +1,81 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 3090 Ti (ID=0x2203)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.450 seconds
+desktop: 5120x1440 120Hz; virtual: 7040x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\The War Of Japants_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.340800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1889.
+Total: 0.353500 ms (FindLiveObjects: 0.068900 ms CreateObjectMapping: 0.054200 ms MarkObjects: 0.223600 ms  DeleteObjects: 0.006100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.533800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1891.
+Total: 0.296600 ms (FindLiveObjects: 0.048500 ms CreateObjectMapping: 0.048900 ms MarkObjects: 0.193400 ms  DeleteObjects: 0.005400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.546700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1893.
+Total: 0.269400 ms (FindLiveObjects: 0.025400 ms CreateObjectMapping: 0.048800 ms MarkObjects: 0.189400 ms  DeleteObjects: 0.005300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.522000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1895.
+Total: 0.258200 ms (FindLiveObjects: 0.029600 ms CreateObjectMapping: 0.045800 ms MarkObjects: 0.177700 ms  DeleteObjects: 0.004800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.579600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1897.
+Total: 0.303800 ms (FindLiveObjects: 0.053000 ms CreateObjectMapping: 0.043300 ms MarkObjects: 0.200800 ms  DeleteObjects: 0.006100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.702800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1899.
+Total: 0.298100 ms (FindLiveObjects: 0.048500 ms CreateObjectMapping: 0.048200 ms MarkObjects: 0.195400 ms  DeleteObjects: 0.005600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.607200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1901.
+Total: 0.311700 ms (FindLiveObjects: 0.045700 ms CreateObjectMapping: 0.051400 ms MarkObjects: 0.207200 ms  DeleteObjects: 0.006800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.540600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1903.
+Total: 0.293800 ms (FindLiveObjects: 0.041500 ms CreateObjectMapping: 0.050800 ms MarkObjects: 0.195000 ms  DeleteObjects: 0.006200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.490300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1905.
+Total: 0.296600 ms (FindLiveObjects: 0.047200 ms CreateObjectMapping: 0.047100 ms MarkObjects: 0.196500 ms  DeleteObjects: 0.005300 ms)
+

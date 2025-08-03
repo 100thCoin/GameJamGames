@@ -1,0 +1,25 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 3090 Ti (ID=0x2203)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 5120x1440 120Hz; virtual: 7040x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\100th_Coin\Documents\ldgames\OverTheCourseOfADay_Data\Managed\System.dll (this message is harmless)
