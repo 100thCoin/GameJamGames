@@ -1,0 +1,45 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sprites\LivingTree 3.shader">
+    <Files>
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraMover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RibbonManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MovementThreeD.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RibbonMover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KeyDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ButtonGate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseVolumeSlider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TitleVolumeSlider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RibbonCustomizerMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TwistEndingController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Volume.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CollectibleWobble.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Collectible.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Chest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VictorySpoolRainbow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sprites\ScreenTrans.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VictoryScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TitleButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VictoryButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HiddenBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CubicBezierCurve.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CubicBezier.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\CubicBezierCurveInspector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChaseGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RibbonColl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShapeGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdvancedRibbonPiecce.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RibbonCustomizer_Spools.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sprites\LivingTree 3.shader" Line="112" Column="133" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

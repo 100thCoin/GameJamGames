@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - GemSlot
+  - GravProjectile
+  - Ground2
+  - GrantTUT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DoNotCollideWithPlayer
+  - Player
+  - Moon2
+  - PlayerDrill
+  - OnlyMoon2
+  - MovingMoon
+  - PlayerOnly
+  - GravProjectile
+  - OOBDetection
+  - GrantTUT
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

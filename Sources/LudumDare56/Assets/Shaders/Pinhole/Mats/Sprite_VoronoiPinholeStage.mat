@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sprite_VoronoiPinholeStage
+  m_Shader: {fileID: 4800000, guid: e3684bfeb9912204aa2790fa966b99c1, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: 09d52e0e139f5cb4bb7f59450f19856f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_Base:
+        m_Texture: {fileID: 2800000, guid: d441e67f5e995c74f8daeaa984a499ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_Flag:
+        m_Texture: {fileID: 2800000, guid: 37435c7d831d93047b0fa76134b7ba7f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_Flag_Sway:
+        m_Texture: {fileID: 2800000, guid: f762f2066c5fcbd48a9672e6d27fb951, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_Leaf_B:
+        m_Texture: {fileID: 2800000, guid: 22970aa960eaf6c4b8847708618be381, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_Leaf_F:
+        m_Texture: {fileID: 2800000, guid: 18d0bdf138536154088f71638bf77bac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_Leaf_Sway:
+        m_Texture: {fileID: 2800000, guid: 6340a71c1bb22d8448ca38e946573a43, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex_Trunk:
+        m_Texture: {fileID: 2800000, guid: d441e67f5e995c74f8daeaa984a499ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CellBright: 1.4
+    - _CellSchmoveRadius: 0.5
+    - _CellSchmoveSpeed: 1.21
+    - _CellSize: 1.7
+    - _LeafSwayMagnitude: 2.5
+    - _MaxIter: 30
+    - _NoiseXOffset: 0
+    - _PerlinCut: 0.57
+    - _PerlinMult: 3
+    - _PerlinScale: 0.005
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _FogColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ShadowColor: {r: 1, g: 1, b: 1, a: 1}

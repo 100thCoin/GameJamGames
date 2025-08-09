@@ -1,0 +1,38 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DetectJumped.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MoveCharacter.cs" Line="121" Column="7" />
+      <File FileName="Assets\Scripts\Barrel.cs" Line="56" Column="22" />
+      <File FileName="Assets\Scripts\DetectJumped.cs" Line="51" Column="20" />
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="112" Column="53" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="19" Column="24" />
+      <File FileName="Assets\Scripts\CameraMove.cs" Line="68" Column="82" />
+      <File FileName="Assets\Scripts\FootStepSound.cs" Line="20" Column="21" />
+      <File FileName="Assets\Scripts\SoundeffectHaltMusic.cs" Line="22" Column="6" />
+      <File FileName="Assets\Scripts\Building.cs" Line="82" Column="56" />
+      <File FileName="..\NAME\Assets\Scripts\LevelEditor\LeCameraMover.cs" Line="36" Column="4" />
+      <File FileName="Assets\Scripts\GhostCheck.cs" Line="32" Column="23" />
+      <File FileName="Assets\Scripts\GhostCheckMain.cs" Line="20" Column="3" />
+      <File FileName="Assets\Scripts\Door.cs" Line="29" Column="69" />
+      <File FileName="Assets\Scripts\ShopItem.cs" Line="12" Column="28" />
+      <File FileName="Assets\Scripts\ShowBuybutton.cs" Line="42" Column="19" />
+      <File FileName="Assets\Scripts\HelpButton.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\InventoryCount.cs" Line="19" Column="94" />
+      <File FileName="Assets\Scripts\Firebun.cs" Line="203" Column="29" />
+      <File FileName="Assets\Scripts\StronkyKong.cs" Line="32" Column="1" />
+      <File FileName="Assets\Scripts\MusicVolume.cs" Line="14" Column="1" />
+      <File FileName="Assets\Scripts\DeadStronky.cs" Line="17" Column="28" />
+      <File FileName="Assets\Scripts\Items.cs" Line="10" Column="1" />
+      <File FileName="Assets\Scripts\VolumeSlider.cs" Line="25" Column="36" />
+      <File FileName="Assets\Scripts\TitleButton.cs" Line="20" Column="26" />
+      <File FileName="Assets\Scripts\OpeningShot.cs" Line="34" Column="26" />
+      <File FileName="Assets\Scripts\FixFont.cs" Line="11" Column="56" />
+      <File FileName="Assets\Scripts\VictoryQuit.cs" Line="16" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MoveChar.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MoveChar.cs" Line="733" Column="14" />
+      <File FileName="Assets\Scripts\MagicBolt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ColorExplosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ExplosionScale.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dinosaur.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bones.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Parallax.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BoneScaffold.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Interactible.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WardrobeItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WardrobeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Patron.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RegisterScanGun.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TitleButtons.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SFXVariance.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

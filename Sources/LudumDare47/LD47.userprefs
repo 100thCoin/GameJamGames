@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LoopMain.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Char_Movement.cs" Line="109" Column="70" />
+      <File FileName="Assets\Shaders\Surf.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Camera_Movement.cs" Line="108" Column="1" />
+      <File FileName="Assets\Scripts\ItemFloat.cs" Line="22" Column="53" />
+      <File FileName="Assets\Scripts\LoopMain.cs" Line="87" Column="86" />
+      <File FileName="Assets\Scripts\QuadStrip.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\MouseInteractable.cs" Line="89" Column="79" />
+      <File FileName="Assets\Scripts\MouseInteractable3D.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="74" Column="38" />
+      <File FileName="Assets\Scripts\SliceHere.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Door.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\CutoutRT.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\Cutout.shader" Line="44" Column="41" />
+      <File FileName="Assets\Scripts\SnakeCollision.cs" Line="78" Column="12" />
+      <File FileName="Assets\Scripts\FadetoWhite.cs" Line="23" Column="32" />
+      <File FileName="Assets\Shaders\MagicTransparency.shader" Line="89" Column="3" />
+      <File FileName="..\Dapper Danny\Assets\Shaders\MagicTransparency.shader" Line="8" Column="17" />
+      <File FileName="Assets\Scripts\Cutscene.cs" Line="52" Column="8" />
+      <File FileName="Assets\Scripts\Tooltip.cs" Line="80" Column="26" />
+      <File FileName="Assets\Scripts\TrackLayer.cs" Line="118" Column="22" />
+      <File FileName="Assets\Scripts\DestroyIfmeh.cs" Line="19" Column="24" />
+      <File FileName="Assets\Scripts\MoveMeh.cs" Line="18" Column="3" />
+      <File FileName="Assets\Scripts\MenuButton.cs" Line="69" Column="53" />
+      <File FileName="Assets\Scripts\FixScreen.cs" Line="17" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

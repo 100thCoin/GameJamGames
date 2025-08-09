@@ -1,0 +1,42 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Main.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="285" Column="3" />
+      <File FileName="Assets\Scripts\CharMovement.cs" Line="193" Column="97" />
+      <File FileName="Assets\Scripts\CameraShifter.cs" Line="14" Column="2" />
+      <File FileName="Assets\Scripts\ScreenShiftCursor.cs" Line="37" Column="68" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="18" Column="25" />
+      <File FileName="Assets\Scripts\DedTextOffset.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="35" Column="15" />
+      <File FileName="Assets\Scripts\Main.cs" Line="36" Column="4" />
+      <File FileName="Assets\Scripts\AudioVolume.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SFXVariety.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TVButton.cs" Line="31" Column="3" />
+      <File FileName="Assets\Scripts\Subtitles.cs" Line="59" Column="46" />
+      <File FileName="Assets\Scripts\hackFont.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SetSubtitles.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TVHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\TwinCameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoolTransition.cs" Line="35" Column="80" />
+      <File FileName="Assets\Shaders\StripeTransition.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BoundMatManagerForTransition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\ScreenBounds 1.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MailSlot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EntranceSlot.cs" Line="62" Column="28" />
+      <File FileName="Assets\Scripts\RandomizeTiles.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AcidVat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PreBossRoomAmbiance.cs" Line="31" Column="40" />
+      <File FileName="Assets\Scripts\SmarticusBossManager.cs" Line="74" Column="92" />
+      <File FileName="Assets\Scripts\Shockwave.cs" Line="22" Column="28" />
+      <File FileName="Assets\Scripts\PauseMenuButtons.cs" Line="212" Column="6" />
+      <File FileName="Assets\Scripts\FreezeObjectsInPause.cs" Line="20" Column="22" />
+      <File FileName="Assets\Scripts\BombambleTile.cs" Line="35" Column="10" />
+      <File FileName="Assets\Scripts\BossBomb.cs" Line="19" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

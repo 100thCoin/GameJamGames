@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ScreenTrans
+  m_Shader: {fileID: 4800000, guid: 256c04f3438dc9140ba2dc2f237abd66, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DotTex:
+        m_Texture: {fileID: 2800000, guid: 10aac67b0a05c11409fe0b18b966d8c4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Blur: 2
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _Debug: 0.91
+    - _DetailNormalMapScale: 1
+    - _DotCount: 5.34
+    - _DstBlend: 0
+    - _Fill: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Height: -0.46
+    - _Metallic: 0
+    - _Mode: 0
+    - _MoveY: 0
+    - _OcclusionStrength: 1
+    - _OffX: 0.5
+    - _OffY: 0.5
+    - _OffsetX: 0
+    - _OffsetY: 0
+    - _Opacity: 1
+    - _OutFill: 1
+    - _Parallax: 0.02
+    - _Pos: 0.5
+    - _Rotation: 38.4
+    - _Schoep: 0.41
+    - _Size: 32
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _Speed: 10
+    - _SpeedX: 10
+    - _SpeedY: 10
+    - _SrcBlend: 1
+    - _StretchX: 1
+    - _StretchY: 1
+    - _TEMP: -6.2
+    - _Temp: 3.94
+    - _UVSec: 0
+    - _World: 1
+    - _ZWrite: 1
+    m_Colors:
+    - _BColor: {r: 0, g: 0, b: 0, a: 1}
+    - _BGColor: {r: 0.35294116, g: 0.35294116, b: 0.35294116, a: 1}
+    - _Color: {r: 0, g: 0, b: 0, a: 1}
+    - _Color2: {r: 0.6627451, g: 0.6627451, b: 0.6627451, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _TColor: {r: 0, g: 0, b: 0, a: 1}

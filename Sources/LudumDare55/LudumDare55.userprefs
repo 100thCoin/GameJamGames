@@ -1,0 +1,56 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Volume.cs">
+    <Files>
+      <File FileName="Assets\Materials\Welleffect.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SuperMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CutsceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Materials\ObscuredSilohette.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RandomGrass.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CutsceneCam.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BetterTextMesh.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DeathAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerGroundDetection.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GetObjectPlayerWants.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HeroController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HeroSmackObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LookAtPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CollectibleFloat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StarTwirl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MissionSuccessfulCutscene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TitleButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TitleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KeyRebinder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KeyRebinderManager.cs" Line="1" Column="1" />
+      <File FileName="..\NAME\Assets\Scripts\GameFunctions\PauseSettingsButtonsAndKnobs.cs" Line="1" Column="1" />
+      <File FileName="..\Ludum Dare 54\Assets\Scripts\TitleVolumeSlider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TitleVolumeSlider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SubCutsceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HideForCutscene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RotateOverTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObjectivesMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObjectiveButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VictoryScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VictoryButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Volume.cs" Line="38" Column="82" />
+      <File FileName="Assets\Scripts\PlatformingTNT.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ExplosionPrefab.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SFX_RandomPitch.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadAudioOnEnable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseButtons.cs" Line="85" Column="34" />
+      <File FileName="..\Ludum Dare 54\Assets\Scripts\PauseVolumeSlider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DynamiteCounter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NecromancerAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NecroAttacker.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,44 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\VoiceQueue.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NPCCOMFUSErADIUS.cs" Line="24" Column="34" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="242" Column="29" />
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="235" Column="19" />
+      <File FileName="Assets\Scripts\CamMover.cs" Line="102" Column="3" />
+      <File FileName="Assets\Scripts\CrowFly.cs" Line="24" Column="26" />
+      <File FileName="Assets\Scripts\FarmPlot.cs" Line="122" Column="25" />
+      <File FileName="Assets\Scripts\Smackable.cs" Line="52" Column="15" />
+      <File FileName="Assets\Scripts\DestroyOverTimer.cs" Line="22" Column="1" />
+      <File FileName="Assets\Scripts\NPC.cs" Line="25" Column="23" />
+      <File FileName="Assets\Shaders\BlackenWhiten.shader" Line="99" Column="36" />
+      <File FileName="Assets\Scripts\hackFont.cs" Line="13" Column="4" />
+      <File FileName="Assets\Scripts\BillCrop.cs" Line="43" Column="86" />
+      <File FileName="Assets\Scripts\BillCropWobble.cs" Line="18" Column="43" />
+      <File FileName="Assets\Scripts\ItemDrop.cs" Line="21" Column="25" />
+      <File FileName="Assets\Scripts\PickupText.cs" Line="11" Column="9" />
+      <File FileName="Assets\Scripts\Depth.cs" Line="23" Column="39" />
+      <File FileName="Assets\Scripts\Map.cs" Line="25" Column="26" />
+      <File FileName="Assets\Scripts\ShopButton.cs" Line="202" Column="29" />
+      <File FileName="Assets\Scripts\ToDoListMan.cs" Line="11" Column="3" />
+      <File FileName="Assets\Shaders\ItemDots.shader" Line="62" Column="106" />
+      <File FileName="..\LDSourceBackups\LudumDare51\Assets\Scripts\PauseButton.cs" Line="175" Column="4" />
+      <File FileName="Assets\Scripts\Catchzone.cs" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\UpgradeFarm.cs" Line="8" Column="25" />
+      <File FileName="Assets\Scripts\HoleSpriteUpdate.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\submittoContest.cs" Line="43" Column="27" />
+      <File FileName="Assets\Scripts\ToDoObjective.cs" Line="271" Column="21" />
+      <File FileName="Assets\Scripts\Volume.cs" Line="10" Column="12" />
+      <File FileName="Assets\Scripts\FinalStats.cs" Line="18" Column="65" />
+      <File FileName="Assets\Scripts\SuperMain.cs" Line="25" Column="11" />
+      <File FileName="Assets\Scripts\TitleButtons.cs" Line="48" Column="15" />
+      <File FileName="Assets\Scripts\PauseMenuButtons.cs" Line="103" Column="6" />
+      <File FileName="Assets\Scripts\VoiceLineTrigger.cs" Line="25" Column="4" />
+      <File FileName="Assets\Scripts\VoiceQueue.cs" Line="18" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
