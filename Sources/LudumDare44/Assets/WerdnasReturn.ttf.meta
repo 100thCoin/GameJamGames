@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8edda551c0562b24cbc615a6bbd3ee77
+timeCreated: 1556367408
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 125
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WerdnasReturn
+  fontNames:
+  - WerdnasReturn
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

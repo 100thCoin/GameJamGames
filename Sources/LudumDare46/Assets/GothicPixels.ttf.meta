@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dcecc836bb0a1724eb1866e4e0c76e7e
+timeCreated: 1587212217
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 256
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GothicPixels
+  fontNames:
+  - GothicPixels
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,41 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TownSlowdown.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="91" Column="38" />
+      <File FileName="Assets\Scripts\VoidComicalObjects.cs" Line="18" Column="23" />
+      <File FileName="Assets\Scripts\SpawnComicalHazards.cs" Line="23" Column="31" />
+      <File FileName="Assets\Scripts\CharMover.cs" Line="107" Column="1" />
+      <File FileName="Assets\Scripts\DressNPC.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TreeParallax.cs" Line="18" Column="180" />
+      <File FileName="..\NAME\Assets\Scripts\AI\BossFight5\BGScroll.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory.cs" Line="50" Column="4" />
+      <File FileName="Assets\Scripts\InventoryText.cs" Line="7" Column="1" />
+      <File FileName="Assets\Scripts\Items.cs" Line="138" Column="230" />
+      <File FileName="Assets\Scripts\ItemUse.cs" Line="23" Column="1" />
+      <File FileName="Assets\Scripts\ItemChange.cs" Line="29" Column="120" />
+      <File FileName="Assets\Scripts\Resources.cs" Line="81" Column="4" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="131" Column="5" />
+      <File FileName="Assets\Scripts\EXPBar.cs" Line="33" Column="74" />
+      <File FileName="Assets\Scripts\InventoryHoverDisplay.cs" Line="39" Column="1" />
+      <File FileName="Assets\Scripts\TradeRequest.cs" Line="11" Column="1" />
+      <File FileName="Assets\Scripts\Gen.cs" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\GeneratedTile.cs" Line="25" Column="106" />
+      <File FileName="Assets\Scripts\TownSlowdown.cs" Line="44" Column="77" />
+      <File FileName="Assets\Scripts\SellMenu.cs" Line="29" Column="1" />
+      <File FileName="Assets\Scripts\NPCInteract.cs" Line="92" Column="78" />
+      <File FileName="Assets\Scripts\QuestMenu.cs" Line="126" Column="8" />
+      <File FileName="Assets\Scripts\QuestDisplay.cs" Line="25" Column="59" />
+      <File FileName="Assets\Scripts\DragonAI.cs" Line="25" Column="90" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="7" Column="1" />
+      <File FileName="Assets\Scripts\TakingDamage.cs" Line="32" Column="43" />
+      <File FileName="Assets\Scripts\ThrownBone.cs" Line="10" Column="67" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="68" Column="56" />
+      <File FileName="Assets\Scripts\quietovertime.cs" Line="23" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

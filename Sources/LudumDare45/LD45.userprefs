@@ -1,0 +1,57 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelTransitiounUISwooshing.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="83" Column="31" />
+      <File FileName="Assets\Scripts\CameraControl.cs" Line="38" Column="51" />
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="145" Column="80" />
+      <File FileName="Assets\Scripts\Parallax.cs" Line="19" Column="1" />
+      <File FileName="Assets\Shaders\Dots.shader" Line="2" Column="1" />
+      <File FileName="Assets\Scripts\LevelTransitiounUISwooshing.cs" Line="474" Column="118" />
+      <File FileName="Assets\Scripts\Boulder.cs" Line="40" Column="4" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="21" Column="24" />
+      <File FileName="Assets\Scripts\AI_Orc.cs" Line="41" Column="2" />
+      <File FileName="Assets\Scripts\Crown.cs" Line="27" Column="115" />
+      <File FileName="Assets\Scripts\SunRays.cs" Line="21" Column="25" />
+      <File FileName="Assets\Scripts\AI_FireOrc.cs" Line="106" Column="71" />
+      <File FileName="Assets\Scripts\CamShake.cs" Line="8" Column="25" />
+      <File FileName="Assets\Scripts\CamShakeOnSpawn.cs" Line="8" Column="25" />
+      <File FileName="Assets\Shaders\ItemStar.shader" Line="145" Column="6" />
+      <File FileName="..\Dapper Danny\Assets\Shaders\ItemDots_Math.shader" Line="121" Column="43" />
+      <File FileName="Assets\Scripts\Hover.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\Item.cs" Line="43" Column="1" />
+      <File FileName="Assets\Scripts\Sign.cs" Line="16" Column="2" />
+      <File FileName="Assets\Scripts\Bg1Fire.cs" Line="47" Column="53" />
+      <File FileName="Assets\Scripts\UI_Key.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\KeyTotem.cs" Line="46" Column="107" />
+      <File FileName="..\LD_40_Baby!\Assets\Scripts\RadBeam.cs" Line="15" Column="1" />
+      <File FileName="Assets\Scripts\Pickup.cs" Line="34" Column="86" />
+      <File FileName="Assets\Scripts\UI_Projectile.cs" Line="23" Column="7" />
+      <File FileName="Assets\Scripts\Target.cs" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\AI_Snowman.cs" Line="46" Column="2" />
+      <File FileName="Assets\Scripts\Snowball.cs" Line="13" Column="45" />
+      <File FileName="Assets\Scripts\TargetDoor.cs" Line="31" Column="50" />
+      <File FileName="Assets\Scripts\AI_Queen.cs" Line="48" Column="1" />
+      <File FileName="Assets\Scripts\SetCamPos.cs" Line="15" Column="4" />
+      <File FileName="Assets\Scripts\UI_LevelGoalSprite.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\SwordPull.cs" Line="203" Column="4" />
+      <File FileName="Assets\Scripts\StoteTotem.cs" Line="30" Column="3" />
+      <File FileName="Assets\Scripts\Skelegibs.cs" Line="14" Column="90" />
+      <File FileName="Assets\Scripts\AI_Skeleton.cs" Line="84" Column="1" />
+      <File FileName="Assets\Scripts\CameraZoomOutZone.cs" Line="32" Column="74" />
+      <File FileName="Assets\Scripts\OpenChest.cs" Line="8" Column="20" />
+      <File FileName="Assets\Scripts\BigMoneyFlash.cs" Line="15" Column="19" />
+      <File FileName="Assets\Scripts\WinScreen.cs" Line="127" Column="22" />
+      <File FileName="Assets\Scripts\AI_Dragon.cs" Line="73" Column="60" />
+      <File FileName="Assets\Scripts\Map.cs" Line="81" Column="60" />
+      <File FileName="Assets\Scripts\TitleMenuFunctions.cs" Line="49" Column="1" />
+      <File FileName="Assets\Scripts\Sfx.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\TitleMusic.cs" Line="24" Column="23" />
+      <File FileName="Assets\Scripts\AudioVolumeControl.cs" Line="12" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

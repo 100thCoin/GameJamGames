@@ -1,0 +1,45 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DataHolder.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="110" Column="4" />
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="80" Column="23" />
+      <File FileName="Assets\Scripts\ItemFollowPlayer.cs" Line="7" Column="26" />
+      <File FileName="Assets\Scripts\ItemHolder.cs" Line="52" Column="87" />
+      <File FileName="Assets\Scripts\GroundItem.cs" Line="33" Column="78" />
+      <File FileName="Assets\Scripts\Explosion.cs" Line="43" Column="3" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="19" Column="1" />
+      <File FileName="Assets\Scripts\Paralax.cs" Line="19" Column="22" />
+      <File FileName="Assets\Scripts\Paralaxee.cs" Line="18" Column="2" />
+      <File FileName="Assets\Scripts\RadGun.cs" Line="19" Column="14" />
+      <File FileName="..\Blackout\Assets\Scripts\LookAt.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\RadBeam.cs" Line="36" Column="185" />
+      <File FileName="Assets\Scripts\dESTROYoVERtIME.cs" Line="31" Column="1" />
+      <File FileName="Assets\Scripts\DelayVisibillity.cs" Line="40" Column="41" />
+      <File FileName="Assets\Scripts\AI_Ploogy.cs" Line="45" Column="1" />
+      <File FileName="Assets\Scripts\PloogyPower.cs" Line="25" Column="58" />
+      <File FileName="Assets\Scripts\PloogySawblade.cs" Line="7" Column="1" />
+      <File FileName="Assets\Scripts\Stomper.cs" Line="18" Column="14" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="114" Column="25" />
+      <File FileName="Assets\Scripts\PloogyBox.cs" Line="37" Column="1" />
+      <File FileName="Assets\Scripts\Intermission.cs" Line="18" Column="30" />
+      <File FileName="Assets\Scripts\KillPloogiesBeforeStart.cs" Line="18" Column="149" />
+      <File FileName="Assets\Scripts\AI_Dropper.cs" Line="38" Column="3" />
+      <File FileName="Assets\Scripts\Ai_Charger.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\PloogPlat.cs" Line="26" Column="17" />
+      <File FileName="Assets\Scripts\LoseText.cs" Line="93" Column="13" />
+      <File FileName="Assets\Scripts\LivingCounter.cs" Line="19" Column="49" />
+      <File FileName="Assets\Scripts\Mute.cs" Line="51" Column="3" />
+      <File FileName="Assets\Scripts\ReSpriteTitle.cs" Line="21" Column="8" />
+      <File FileName="Assets\Scripts\Fan.cs" Line="65" Column="2" />
+      <File FileName="Assets\Scripts\PloogSky.cs" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\PloogyDance.cs" Line="26" Column="17" />
+      <File FileName="Assets\Scripts\Heart.cs" Line="14" Column="134" />
+      <File FileName="Assets\Scripts\TrackLayer.cs" Line="26" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

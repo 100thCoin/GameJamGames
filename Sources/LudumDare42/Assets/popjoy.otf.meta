@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aec78730e346fda42a7b5558167f63e6
+timeCreated: 1534005012
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 256
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FOT-PopJoy Std
+  fontNames:
+  - FOT-PopJoy Std
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

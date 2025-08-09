@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DataHolder.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TeleOrbGraphics.cs" Line="32" Column="82" />
+      <File FileName="Assets\Scripts\CharMovement.cs" Line="91" Column="22" />
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="99" Column="26" />
+      <File FileName="Assets\Scripts\CamControl.cs" Line="33" Column="38" />
+      <File FileName="Assets\Scripts\BlockMining.cs" Line="29" Column="23" />
+      <File FileName="Assets\Scripts\RedicleFollow.cs" Line="50" Column="1" />
+      <File FileName="Assets\Scripts\MouseOverUI.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\MouseOverWindow.cs" Line="6" Column="20" />
+      <File FileName="Assets\Scripts\Door.cs" Line="17" Column="29" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="15" Column="24" />
+      <File FileName="Assets\Scripts\HeartBeat.cs" Line="49" Column="24" />
+      <File FileName="Assets\Scripts\OffOwieMyMoney.cs" Line="14" Column="42" />
+      <File FileName="Assets\Scripts\NumberDirt.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\Parallax.cs" Line="21" Column="98" />
+      <File FileName="Assets\Scripts\LockDoorCol.cs" Line="22" Column="30" />
+      <File FileName="Assets\Scripts\LightSource.cs" Line="12" Column="81" />
+      <File FileName="Assets\Shaders\Darkness.shader" Line="144" Column="9" />
+      <File FileName="Assets\Scripts\Dialogue.cs" Line="45" Column="32" />
+      <File FileName="Assets\Scripts\LadderiteUI.cs" Line="45" Column="14" />
+      <File FileName="Assets\Scripts\StoreBuyItem.cs" Line="48" Column="22" />
+      <File FileName="Assets\Scripts\ToolBar.cs" Line="50" Column="44" />
+      <File FileName="Assets\Scripts\WinScreenStats.cs" Line="46" Column="11" />
+      <File FileName="Assets\Scripts\OffMoney.cs" Line="29" Column="60" />
+      <File FileName="Assets\Scripts\HeyDummy.cs" Line="28" Column="24" />
+      <File FileName="Assets\Scripts\TrackLayering.cs" Line="24" Column="7" />
+      <File FileName="Assets\Scripts\StartGame.cs" Line="34" Column="50" />
+      <File FileName="Assets\Scripts\NavTitle.cs" Line="109" Column="86" />
+      <File FileName="Assets\Scripts\FixResolution.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

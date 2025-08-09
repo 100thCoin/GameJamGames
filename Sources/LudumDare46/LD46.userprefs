@@ -1,0 +1,48 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HybridButton.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="32" Column="21" />
+      <File FileName="Assets\Scripts\MovePlayer.cs" Line="122" Column="14" />
+      <File FileName="Assets\Scripts\CamControl.cs" Line="95" Column="6" />
+      <File FileName="Assets\Scripts\Farm.cs" Line="204" Column="1" />
+      <File FileName="Assets\Scripts\FarmSeedButton.cs" Line="39" Column="2" />
+      <File FileName="Assets\Scripts\PlaceSeedHolder.cs" Line="36" Column="87" />
+      <File FileName="Assets\Scripts\SeedSlot.cs" Line="28" Column="20" />
+      <File FileName="Assets\Scripts\HybridButton.cs" Line="193" Column="19" />
+      <File FileName="Assets\Scripts\ReturnSeedsButton.cs" Line="7" Column="1" />
+      <File FileName="Assets\Scripts\SeedTracker.cs" Line="17" Column="32" />
+      <File FileName="Assets\Scripts\BulbPlot.cs" Line="202" Column="59" />
+      <File FileName="Assets\Scripts\Bulb.cs" Line="232" Column="48" />
+      <File FileName="Assets\Scripts\NotebookButton.cs" Line="50" Column="58" />
+      <File FileName="Assets\Scripts\Combat\EnterCombat.cs" Line="94" Column="6" />
+      <File FileName="Assets\Scripts\Combat\AttackButton.cs" Line="433" Column="4" />
+      <File FileName="Assets\Scripts\Combat\CombatFlower.cs" Line="126" Column="28" />
+      <File FileName="Assets\Scripts\Projectiles.cs" Line="66" Column="23" />
+      <File FileName="Assets\Scripts\Combat\WinNoteTwirl.cs" Line="15" Column="13" />
+      <File FileName="Assets\Scripts\Combat\ExitCombat.cs" Line="61" Column="1" />
+      <File FileName="Assets\Scripts\GardenLightVariance.cs" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\BugHover.cs" Line="22" Column="166" />
+      <File FileName="Assets\Shaders\Decay.shader" Line="8" Column="10" />
+      <File FileName="Assets\Scripts\SeedBonus.cs" Line="9" Column="14" />
+      <File FileName="Assets\Scripts\BornGreen.cs" Line="20" Column="28" />
+      <File FileName="Assets\Scripts\InvisLeft.cs" Line="7" Column="25" />
+      <File FileName="Assets\Scripts\CurrentObjective.cs" Line="34" Column="17" />
+      <File FileName="Assets\Scripts\UpButton.cs" Line="46" Column="21" />
+      <File FileName="Assets\Scripts\Table.cs" Line="25" Column="4" />
+      <File FileName="Assets\Scripts\dialogue\DialogueHolder.cs" Line="101" Column="30" />
+      <File FileName="Assets\Scripts\Notes.cs" Line="165" Column="48" />
+      <File FileName="Assets\Scripts\NPC.cs" Line="40" Column="71" />
+      <File FileName="Assets\Scripts\dialogue\WriteLine.cs" Line="413" Column="110" />
+      <File FileName="Assets\Scripts\TildesGarden.cs" Line="24" Column="25" />
+      <File FileName="Assets\Scripts\ExitGame.cs" Line="57" Column="31" />
+      <File FileName="Assets\Scripts\SactuaryText.cs" Line="53" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Chris Siebert\Documents\LD46\Assets\Scripts\dialogue\WriteLine.cs" line="309" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
