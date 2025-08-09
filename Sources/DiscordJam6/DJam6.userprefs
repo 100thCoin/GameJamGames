@@ -1,0 +1,42 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SpeedrunTime.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MoveCharacter.cs" Line="196" Column="11" />
+      <File FileName="Assets\Scripts\Dataholder.cs" Line="69" Column="34" />
+      <File FileName="Assets\Scripts\CamControl.cs" Line="30" Column="25" />
+      <File FileName="Assets\Scripts\SpriteDepthLayer.cs" Line="18" Column="68" />
+      <File FileName="Assets\ShaderMats\FlagWobble.shader" Line="77" Column="44" />
+      <File FileName="Assets\ShaderMats\FlagWobble 1.shader" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\PlayerDetectObjects.cs" Line="147" Column="55" />
+      <File FileName="Assets\Scripts\NameObject.cs" Line="12" Column="18" />
+      <File FileName="Assets\Scripts\HomeMarker.cs" Line="33" Column="4" />
+      <File FileName="Assets\Scripts\TownName.cs" Line="90" Column="15" />
+      <File FileName="Assets\Scripts\TownLore.cs" Line="8" Column="25" />
+      <File FileName="Assets\Scripts\HandleAudioVolume.cs" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="16" Column="3" />
+      <File FileName="Assets\ShaderMats\LivingTree 3.shader" Line="115" Column="78" />
+      <File FileName="Assets\Scripts\Multicolor.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\Bullet.cs" Line="20" Column="13" />
+      <File FileName="Assets\Scripts\BulletManager.cs" Line="8" Column="22" />
+      <File FileName="Assets\Scripts\AudioRandomPitch.cs" Line="9" Column="10" />
+      <File FileName="Assets\Scripts\Fireball.cs" Line="15" Column="61" />
+      <File FileName="Assets\Scripts\FireballShadow.cs" Line="13" Column="1" />
+      <File FileName="Assets\Scripts\PlayerFBallDetector.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\Dragon.cs" Line="51" Column="4" />
+      <File FileName="Assets\Scripts\MiniDragon.cs" Line="33" Column="4" />
+      <File FileName="Assets\Scripts\LoadDragonRoom.cs" Line="79" Column="43" />
+      <File FileName="Assets\Scripts\DestroyOnDragonDeath.cs" Line="19" Column="24" />
+      <File FileName="Assets\Scripts\DestroyOnPlayerNotStuck.cs" Line="17" Column="7" />
+      <File FileName="Assets\Scripts\Generator.cs" Line="25" Column="64" />
+      <File FileName="Assets\Scripts\VolumeSlider.cs" Line="15" Column="61" />
+      <File FileName="Assets\Scripts\Buttons.cs" Line="58" Column="52" />
+      <File FileName="Assets\Scripts\MainHolder.cs" Line="12" Column="22" />
+      <File FileName="Assets\Scripts\SpeedrunTime.cs" Line="31" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

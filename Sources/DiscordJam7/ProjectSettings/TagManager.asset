@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - OneWayFloor
+  - WallLeft
+  - WallRight
+  - InsideWall
+  - OneWayCeiling
+  - CeilingBonk
+  - Mushroom
+  - Goomba
+  - ScreenWallLeft
+  - ScreenWallRight
+  - Coin
+  - BonkDestroy
+  - LevelGoal
+  - Hurt
+  - Lava
+  - Axe
+  - Sword
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - EnemyWall
+  - Link
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

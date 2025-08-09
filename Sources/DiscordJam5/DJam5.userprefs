@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.AndroidPlayer" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HexByte.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Char_Move.cs" Line="629" Column="33" />
+      <File FileName="Assets\Scripts\Object_Move.cs" Line="589" Column="9" />
+      <File FileName="Assets\Scripts\Char_JumpDetection.cs" Line="40" Column="23" />
+      <File FileName="Assets\Scripts\HexViewer.cs" Line="49" Column="14" />
+      <File FileName="Assets\Scripts\HexByte.cs" Line="60" Column="1" />
+      <File FileName="Assets\Scripts\HoverOver.cs" Line="8" Column="24" />
+      <File FileName="Assets\Scripts\ACE_Block.cs" Line="28" Column="33" />
+      <File FileName="Assets\Scripts\DataHolder.cs" Line="31" Column="34" />
+      <File FileName="Assets\Materials\BW.shader" Line="1" Column="1" />
+      <File FileName="Assets\Materials\Cutout.shader" Line="69" Column="14" />
+      <File FileName="Assets\Scripts\PostACE.cs" Line="40" Column="14" />
+      <File FileName="Assets\Scripts\LevelClearText.cs" Line="17" Column="36" />
+      <File FileName="Assets\Scripts\CamControl.cs" Line="45" Column="29" />
+      <File FileName="Assets\Scripts\AceVolumeFade.cs" Line="9" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
