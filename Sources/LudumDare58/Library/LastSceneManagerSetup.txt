@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LD58.unity
+  isLoaded: 1
+  isActive: 1
