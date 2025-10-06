@@ -22,7 +22,8 @@ public class EnableOnArbitraryCheck : MonoBehaviour {
 			Interact.enabled = !Disable;
 			if (!Disable) {
 				Interact.Box.enabled = true;
-
+			} else {
+				Destroy (gameObject);
 			}
 			Destroy (this);
 		}

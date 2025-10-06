@@ -97,7 +97,7 @@ public class DataHolder : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
-
+		SpeedrunTime += Time.deltaTime;
 		if (Input.GetKeyDown (KeyCode.Escape)) {
 
 			paused = !paused;

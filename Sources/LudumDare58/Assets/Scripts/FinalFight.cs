@@ -94,6 +94,8 @@ public class FinalFight : MonoBehaviour {
 							Instantiate (ShotDead_SFX, transform.position, transform.rotation, transform.parent);
 							Phase2_Dead = true;
 							PHase2Timer = 0;
+							Global.Dataholder.PlayerDead = true;
+
 						}
 
 					}

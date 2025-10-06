@@ -19,6 +19,8 @@ public class Club4_Scene : MonoBehaviour {
 	void Start () {
 	
 		Global.Dataholder.Inventory [6] = true;
+		Global.Dataholder.PlayerDead = true;
+
 	}
 	
 	// Update is called once per frame
@@ -30,7 +32,6 @@ public class Club4_Scene : MonoBehaviour {
 		if (timer > 2.84f) {
 
 			Global.Dataholder.MainCamera.transform.position = new Vector3 (40, 20, -10);
-
 		}
 
 		if (timer > 11.9f) {
