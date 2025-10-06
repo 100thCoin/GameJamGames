@@ -2268,6 +2268,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4606005484267444}
+  - component: {fileID: 114231982844618724}
   m_Layer: 0
   m_Name: Interact (2)
   m_TagString: Untagged
@@ -13392,17 +13393,9 @@ MonoBehaviour:
   ScheduledEvent: 0
   RequiresItem: 0
   RequiredItem: 0
-  ItemSpeeches:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 1433051916238082, guid: d2a5314f3a7958c4b9b6681bf7d54ab8, type: 2}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  ItemSpeeches: []
   HideAfterItemSpeech: 0
-  RemovesItem: 3
+  RemovesItem: 0
   TradeForItem: -1
   Jump: 0
   JumpCooldown: 0
@@ -13611,17 +13604,9 @@ MonoBehaviour:
   ScheduledEvent: 0
   RequiresItem: 0
   RequiredItem: 0
-  ItemSpeeches:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 1433051916238082, guid: d2a5314f3a7958c4b9b6681bf7d54ab8, type: 2}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  ItemSpeeches: []
   HideAfterItemSpeech: 0
-  RemovesItem: 3
+  RemovesItem: -1
   TradeForItem: -1
   Jump: 0
   JumpCooldown: 0
@@ -13850,6 +13835,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Interactives: {fileID: 0}
+--- !u!114 &114231982844618724
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1485492291053054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4379bb84c3d62574888ed926f947c0b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Door_EnterslashLocked: {fileID: 1530901696491632}
+  Door_UnlockWithKey: {fileID: 1337576796291248}
+  Door_Uncanny: {fileID: 1753037480233288}
 --- !u!114 &114234142993678536
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -14751,7 +14750,7 @@ MonoBehaviour:
   GoToRoom: 0
   RoomToGoTo: {fileID: 0}
   RequiresGameWatchView: 0
-  Locked: 1
+  Locked: 0
   LockedBehindArbitraryCheckID: 0
   LockedVoiceClipIfInteracted: {fileID: 0}
   Grab: 0
@@ -14761,7 +14760,7 @@ MonoBehaviour:
   ObjectToUpdate: {fileID: 0}
   VoiceClip: {fileID: 0}
   Talk: 0
-  OneTimeUse: 1
+  OneTimeUse: 0
   SpecialVoiceLineOnFirstUse: 0
   FirstUseVoice: {fileID: 0}
   ScheduledEvent: 0
