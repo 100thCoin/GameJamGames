@@ -44,8 +44,8 @@ public class MusicManager : MonoBehaviour {
 			PauseTimer = 1;
 		}
 
-		Acapella.ForceMultt = (PlayTimer * PauseTimer) * (1-BossTimer) * 0.3f;
-		MainMusic.ForceMultt = ((PlayTimer * (1-PauseTimer)) * (1-BossTimer))*0.5f;
-		Boss.ForceMultt = (PlayTimer * (BossTimer * 1-Global.Dataholder.PlatformMan.JustShotHandTimer))*0.5f;
+		Acapella.ForceMultt = ((PlayTimer * PauseTimer) * (1-BossTimer)* (1-Global.Dataholder.PlatformMan.JustShotHandTimer)) * 0.3f;
+		MainMusic.ForceMultt = (((PlayTimer * (1-PauseTimer)) * (1-BossTimer))* (1-Global.Dataholder.PlatformMan.JustShotHandTimer))*0.5f;
+			Boss.ForceMultt = (PlayTimer * (BossTimer * (1-Global.Dataholder.PlatformMan.JustShotHandTimer)))*0.5f;
 	}
 }

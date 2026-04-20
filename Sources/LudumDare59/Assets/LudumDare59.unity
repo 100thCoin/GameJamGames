@@ -35737,7 +35737,7 @@ MonoBehaviour:
 
       and treat me with THIS MUCH disrepect?'
     EndTimeline: 0
-    Duration: 5
+    Duration: 5.5
     AudioClip: {fileID: 8300000, guid: 01149b9233b671e47a774a504f9c72eb, type: 3}
     InternalMonologue:
       Name: 
