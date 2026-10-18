@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 04f758ea5e9ec394c9a99bb71129c843
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 64
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TCA Thecoa NonCommercial
+  fontNames:
+  - TCA Thecoa NonCommercial
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

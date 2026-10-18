@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shaders\WaterCaustics.shader">
+    <Files>
+      <File FileName="Assets\Scripts\BaseCode\DataHolder.cs" Line="243" Column="1" />
+      <File FileName="Assets\Scripts\TitleCardNoise.cs" Line="30" Column="52" />
+      <File FileName="Assets\Scripts\Interactable.cs" Line="35" Column="3" />
+      <File FileName="Assets\Scripts\Room.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\DeckHUD.cs" Line="38" Column="3" />
+      <File FileName="Assets\Scripts\DeckCard.cs" Line="79" Column="39" />
+      <File FileName="Assets\Scripts\BaseCode\SuperMain.cs" Line="15" Column="46" />
+      <File FileName="Assets\Scripts\Dialogue.cs" Line="144" Column="87" />
+      <File FileName="Assets\Scripts\DestroyOnUnlock.cs" Line="18" Column="86" />
+      <File FileName="Assets\Scripts\AppearOnUnlock.cs" Line="8" Column="27" />
+      <File FileName="Assets\Scripts\TitleScreenEffects.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\WaterCaustics.shader" Line="264" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
