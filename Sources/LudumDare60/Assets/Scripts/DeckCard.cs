@@ -31,7 +31,7 @@ public class DeckCard : MonoBehaviour {
 
 		Vector3 MousePos = Global.Dataholder.MainCam.ScreenToWorldPoint (Input.mousePosition);
 		RaycastHit[] Hit = Physics.RaycastAll (MousePos, Vector3.forward,0x200);
-		if (Hit != null) {
+		if (Hit != null && Global.Dataholder.CardsOpen) {
 			if (Hit.Length > 0) {
 				int ClosestLayer = 99;
 				Collider ClosestCol = null;

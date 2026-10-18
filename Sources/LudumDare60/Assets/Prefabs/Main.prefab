@@ -19094,7 +19094,7 @@ MonoBehaviour:
   SR: {fileID: 212270046450154058}
   Hover: {fileID: 21300000, guid: e1db4020e691ac648b7ab8955811bf3a, type: 3}
   NoHover: {fileID: 21300000, guid: f1f43cfb911a0954a87f2c7067389988, type: 3}
-  UnlockEverything: 0
+  UnlockEverything: 1
 --- !u!114 &114869182720796532
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -24269,7 +24269,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 76b6bd8e03cab9d409aff7ab7348f079, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -24841,7 +24841,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 76b6bd8e03cab9d409aff7ab7348f079, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1

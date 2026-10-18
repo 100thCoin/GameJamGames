@@ -116,6 +116,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 dd5782eed22176e5418377c92ba31d75 Assembly-CSharp.dll:.DestroyOnUnlock
+1d273e0437695ec05aa8ffb277433670 Assembly-CSharp.dll:.VictoryScreen
 56b7da88d58daf7e21027bf235d2ab3c Assembly-CSharp.dll:.HintIndicator
 322cb40e1e282f28af980cbef7922a90 UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsEventTracker
 dc07d7ad69b399a46e92c483bf1c04ca UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsTracker
@@ -127,6 +128,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CreateMain
 25dd676c37c9cd48dbba0c951857a00c Assembly-CSharp.dll:.Interactable
+550ae4b0ea132231415252177181e462 Assembly-CSharp.dll:.FinalCutscene
 2e6935818f4ec7bf8fb217782d4b4982 Assembly-CSharp.dll:.BossCard
 26bc8e6131cc8bc53990213a5523a13d Assembly-CSharp.dll:.Room
 29534aafdac7c16351d64d72e985e155 Assembly-CSharp.dll:.SuperMain
@@ -170,5 +172,3 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 5e63baf30886e44616e6401545bce997 Assembly-CSharp.dll:.AppearOnUnlock
 155b0f10c1b816a78adbb8470d282fba Assembly-CSharp.dll:.DeckHUD
 4b34b9cf41913336977e4dc59db1568a Assembly-CSharp.dll:.TitleCardNoise
-550ae4b0ea132231415252177181e462 Assembly-CSharp.dll:.FinalCutscene
-1d273e0437695ec05aa8ffb277433670 Assembly-CSharp.dll:.VictoryScreen
